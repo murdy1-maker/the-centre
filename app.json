@@ -5,6 +5,9 @@
     "version": "1.0.0",
     "orientation": "portrait",
     "owner": "bige1234s-team",
+    "splash": {
+      "backgroundColor": "#0F172A"
+    },
     "extra": {
       "eas": {
         "projectId": "00ec6cff-ab8a-4265-97ff-9bc7e54495c3"
